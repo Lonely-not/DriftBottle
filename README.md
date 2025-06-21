@@ -77,9 +77,3 @@ CREATE TABLE drifting_bottles (
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
-
-###🧭 使用指南 / Usage Guide
-##用户注册
-1.访问 reg.html 页面
-2.填写用户名和密码
-3.点击注册按钮
